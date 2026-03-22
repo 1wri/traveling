@@ -1,2 +1,76 @@
-# traveling
-旅游网站系统 java springboot ssm mysql (源代码+数据库+配套论文) 角色：管理员、用户 管理员：管理员进入后台管理系统主页面，主要功能包括包含系统首页、用户管理、经典类型管理、旅游景点管理、门票订单管理、门票退订管理、客房类型管理、酒店信息管理、客房订单管理、客房退订管理、旅游路线管理、路线预定管理、取消 预定管理、留言板、系统管理等管理操作。 Python+Django+Vue,php,Flask,node.js,SSM,JSP,Uniapp,hadoop,spark,hive,ThinkPhp,Flask,Koa,Express,Springcloud,ASP.Net,C#,Mysql,大数据毕业设计,基于微信小程序,Ai对话,协同过滤推荐算法  
+# 旅游信息推荐系统带毕业论文
+
+## 一、介绍
+
+### springboot+mybatis+vue前后端分离的旅游信息推荐系统
+
+数据库:mysql
+
+开发语言：java
+
+功能简介：系统分为前台跟后台两个项目
+
+用户：  浏览旅游新闻、景区信息、美食信息、旅游线路、在线留言、旅游线路、订单信息
+
+管理员： 账号管理、地区管理、景点信息管理、地方美食管理、旅游线路管理、订单信息管理、新闻管理、系统管理
+
+![img.png](imgs/img.png)
+
+### 完整项目获取
+
+通过网盘分享的文件：旅游信息推荐系统
+
+链接: https://pan.baidu.com/s/1BtWz3y6xd6CRrMpl0gLQCA?pwd=iqn6 提取码: iqn6
+--来自百度网盘超级会员v3的分享
+
+### 项目合集(项目不断更新中，包含java、vue、python、Android、微信小程序等项目)
+
+链接: https://pan.baidu.com/s/1nY-zhvAK0CXYcn3g7LzQnQ?pwd=id3c 提取码: id3c
+--来自百度网盘超级会员v3的分享
+
+### 工具包
+
+链接: https://pan.baidu.com/s/1YmdoJvkjoUjA75wvHLDZ6A?pwd=xm96 提取码: xm96
+--来自百度网盘超级会员v3的分享
+
+需要远程项目部署或项目修改和毕业设计也可联系（添加申请时请备注好来意）
+
+### 远程调试部署联系方式
+
+链接: https://pan.baidu.com/s/1W0dDcoZmayG0c7USJDYBYg?pwd=nqd7 提取码: nqd7
+--来自百度网盘超级会员v3的分享
+
+#### 这些项目一起发你了 可以分享给你需要的同学 调试可找我 也接二次修改和项目定制、毕业设计等
+
+## 接毕业设计和论文
+
+微信联系方式：xzxj0206  QQ：3808981644   (支持修改、 部署调试、 支持代做毕设)
+
+接网站建设、小程序、H5、APP、各种系统等，单片机、嵌入式也可以做
+
+选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt  都可以做
+
+
+
+
+
+## 二、游客和用户界面部分功能页面展示
+
+![img_1.png](imgs/img_1.png)
+
+![img_3.png](imgs/img_3.png)
+
+![img_4.png](imgs/img_4.png)
+
+## 三、管理员界面部分功能页面展示
+
+![img_5.png](imgs/img_5.png)
+
+![img_6.png](imgs/img_6.png)
+
+![img_7.png](imgs/img_7.png)
+
+## 四、9000字文档参考
+
+![img.png](img.png)
+
